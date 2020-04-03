@@ -8,7 +8,7 @@ public class Mole extends Guerreros {
 
     public Mole () {
 
-        super ("Mole",  1.5f, 1 );
+        super ("Mole",  1.5f, 1,20 );
 
         }
 
